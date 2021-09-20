@@ -146,7 +146,7 @@ Run the following inside the build directory:
 ~~~ sh
 $ make userconfig
 ~~~
-Or you can copy the example config from `/usr/share/doc/polybar/config` or ` /usr/local/share/doc/polybar/config` (depending on your install parameters)
+Or you can create `~/.config/polybar/config` from the example config from `/usr/share/doc/polybar/config` or ` /usr/local/share/doc/polybar/config` (depending on your install parameters)
 
 **Note:** This example file is meant to showcase available modules and
 configuration options.
